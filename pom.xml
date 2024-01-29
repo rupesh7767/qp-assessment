@@ -12,6 +12,7 @@
     <artifactId>qp-assessment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Grocery</name>
+    <packaging>jar</packaging>
     <description>Grocery</description>
     <properties>
         <java.version>17</java.version>
